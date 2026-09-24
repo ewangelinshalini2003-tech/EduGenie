@@ -1,0 +1,7 @@
+# Never upload secrets or local Python artifacts.
+GEMINI_API_KEY=AQ.Ab8RN6JaQbv7KHUkxBG1d8ku31efHOqpFm0WesQV3hjEItjZ4Q
+.env
+__pycache__/
+*.py[cod]
+.venv/
+venv/

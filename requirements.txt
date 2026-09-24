@@ -1,0 +1,2 @@
+# Optional: install this only when you want live Gemini responses.
+google-genai>=1.0.0
